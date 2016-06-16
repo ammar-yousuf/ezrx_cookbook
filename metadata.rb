@@ -1,0 +1,7 @@
+name 'ezrx'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures ezrx'
+long_description 'Installs/Configures ezrx'
+version '0.1.0'
